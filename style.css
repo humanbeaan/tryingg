@@ -2,6 +2,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background-image: url(game3.gif);
+	text-align: center;
 }
 
 .container{
@@ -17,7 +18,7 @@ body{
 	width: 250px;
 	padding:  40px;
 	font-size: 35px;
-	font-family:DS-Digital;
+	font-family:Calibri;
 	color: white;
 	margin-top: 70px;
 	margin-left: 560px;
@@ -46,7 +47,7 @@ h1{
 	left: 50%;
 	transform: translate(-50%, -50%);
 	font-size: 35px;
-	font-family:Baby Blocks;
+	font-family:Consolas;
 	color: white;
 	margin-top: 200px;
 	margin-left: 0px;
