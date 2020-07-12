@@ -5,16 +5,7 @@
 	<meta charset= "utf-8">
 
 		<link rel="stylesheet" type="text/css" href="style.css">
-	
-    </head>
-    <body>
-	<h1 data-text="WELCOME">WELCOME</h1> <!-- Total no. of character --> <br>
-	<h2>fellow<br>human! </h2>
-    
-	<div class="container"></div>
-	    <a href="vid.html" style="text-decoration: none; color:white;"><div class="button">play></div></a>
-        <style>
-          body{
+	body{
 	margin: 0;
 	padding: 0;
 	background-image: url("game3.gif");
@@ -112,8 +103,14 @@ h2{
 }
 
 
-       </style>
-		
+    </head>
+    <body>
+	<h1 data-text="WELCOME">WELCOME</h1> <!-- Total no. of character --> <br>
+	<h2>fellow<br>human! </h2>
+    
+	<div class="container"></div>
+	    <a href="vid.html" style="text-decoration: none; color:white;"><div class="button">play></div></a>
+
     </body>
 </html>
 </div>
