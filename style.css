@@ -28,7 +28,6 @@ body{
 	font-family:Tw Cen MT;
 	color: white;
 	margin-top: 70px;
-	margin-left: 560px;
 	font-weight: 400;
 	border: 5px solid white;
     letter-spacing: 17px;
@@ -96,7 +95,7 @@ h1:before{
 }
 
 h2{
-	font-family: url(webfontkit-20200712-210943.zip);
+	font-family: url(endestry-webfont.woff);
 	font-size:45px;
 	color: white;
 	text-align: center;
