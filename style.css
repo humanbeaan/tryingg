@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'endestryregular';
+    src: url('endestry-webfont.woff2') format('woff2'),
+         url('endestry-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body{
 	margin: 0;
 	padding: 0;
@@ -88,7 +96,7 @@ h1:before{
 }
 
 h2{
-	font-family: Endestry;
+	font-family: CustomFont;
 	font-size: 45px;
 	color: white;
 	text-align: center;
