@@ -96,8 +96,8 @@ h1:before{
 }
 
 h2{
-	font-family: CustomFont;
-	font-size: 45px;
+	font-family: url(webfontkit-20200712-210943.zip);
+	font-size:45px;
 	color: white;
 	text-align: center;
 }
