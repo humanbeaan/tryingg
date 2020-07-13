@@ -10,6 +10,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background-image: url("game3.gif");
+	text-align: center;
 }
 
 .container{
